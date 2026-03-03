@@ -3,7 +3,7 @@
 ## 一、一句话介绍
 HeySiry 是一款借鉴顶级职业体育数据分析（Sports Analytics）理念，深度量化 AI 时代“人机协同力”与“认知迭代频率”的动态人才扫描与培养指挥部。
 
-体验🔗：HeySiry - AI Talent Scout
+体验🔗：[HeySiry - AI Talent Scout](https://heysiry-ai-talent-scout-423401435924.us-west1.run.app/)
 
 ## 二、实践背景
 在生成式 AI 浪潮下，传统的 HR 评估体系（如 KPI、OKR）正面临“失灵”：

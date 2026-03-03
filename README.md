@@ -1,20 +1,60 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# HeySiry：AI 时代人才的“神经星云”决策系统
 
-# Run and deploy your AI Studio app
+## 一、一句话介绍
+HeySiry 是一款借鉴顶级职业体育数据分析（Sports Analytics）理念，深度量化 AI 时代“人机协同力”与“认知迭代频率”的动态人才扫描与培养指挥部。
 
-This contains everything you need to run your app locally.
+体验🔗：HeySiry - AI Talent Scout
 
-View your app in AI Studio: https://ai.studio/apps/c0ca2b90-ef77-434c-a79c-04f5d6a6dab6
+## 二、实践背景
+在生成式 AI 浪潮下，传统的 HR 评估体系（如 KPI、OKR）正面临“失灵”：
 
-## Run Locally
+1. 技能贬值过快：传统的软件操作经验正被 Prompt Engineering 快速取代。
 
-**Prerequisites:**  Node.js
+2. 能力暗盒化：难以分辨一个员工的高产是因为自身卓越，还是因为他更擅长“调教” AI。
 
+3. 协作范式转移：团队不再只是人与人的协作，而是“人+AI”形成的分布式网络。
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+我们需要一种全新的视角，去识别那些能够与 AI 产生“共振”的高潜力个体。
+
+<img width="1438" height="769" alt="image" src="https://github.com/user-attachments/assets/11312b05-2400-42e6-a5f6-1426107cf46a" />
+
+<img width="1436" height="768" alt="image" src="https://github.com/user-attachments/assets/21a82d5d-5db2-4fc6-a933-de5219b015a9" />
+
+<img width="1436" height="767" alt="image" src="https://github.com/user-attachments/assets/a5e827b3-38b5-48d2-a91e-44e5ed7c55eb" />
+
+<img width="1434" height="762" alt="image" src="https://github.com/user-attachments/assets/2e12125b-4ea7-4887-9e6e-55c6b5cd4d33" />
+
+## 三、实践过程
+① 挑战场景
+● 黑盒评估：面试或月报中，无法客观评估员工对 AI 工具的实际驾驭深度及真实贡献率。
+
+● 小队组建难：在紧急的 AI 创新项目中，无法预判不同成员的 AI 技能项是否重叠或存在死角。
+
+● 培养路径模糊：员工知道要学 AI，但不知道除了写 Prompt 之外，还需要在“价值判断”或“系统架构”上补齐哪些短板。
+
+② 解决方案
+我们搭建了基于 Gemini 3.0 大模型驱动的 HeySiry 系统，核心包含三个创新模块：
+
+● 6 维神经评估模型（Radar Matrix）：摒弃传统维度，确立了：人机协同力、价值判断力、系统架构力、跨界创新力、人本共情力、认知迭代力。
+
+● 神经星云（Galaxy View）：利用物理引擎将全员映射为星系，根据部门归属（引力）和能力相似度（聚类）形成动态可视化的“人才图谱”。
+
+● 协同实验室（Synergy Lab）：通过 AI 模拟，输入任务目标（如：构建 RAG 知识库），系统自动计算不同成员组合的“化学反应评分（Syn Score）”，预判任务风险。
+
+## 四、初步实践成果
+1. 高潜人才“打捞”：通过分析代码库注释中的 Prompt 深度与 SOP 重构记录，我们识别出了多名隐藏在基层的“赛博架构师”，并将其提拔为 AI 转型先锋。
+
+2. 团队组建提速：在新项目立项时，利用“自动编队”功能，将组队时间从 3 天缩短至 10 分钟，且 Syn Score 均值提升了 28%。
+
+3. 培养方案颗粒度化：AI 生成的“星探报告”能指出如“过度依赖 AI 生成，缺乏事实核查（价值判断力不足）”等具体痛点，并提供 3 条即时行动建议。
+
+## 五、心得分享
+● 评估即进化：在 AI 时代，评估不应是年终的总结，而应是像“运动手环”一样的实时流数据分析。
+
+● 人本位的回归：AI 越强，我们反而更应该关注那些 AI 无法模拟的特质——如深度的感性共情和复杂的商业判断。
+
+● 不要“管理” AI 人才，而要“激发”他们：HeySiry 不是监控器，而是指南针。当员工在看板上看到自己从“传统执行者”进化为“人工智能领航员”时，这种自我驱动的成就感是任何奖金都无法替代的。
+
+## HeySiry 创作者寄语
+
+AI 是一面镜子。它越强大，镜像中折射出的人性特质——那些关于价值观的定力、关于跨界的灵光、关于共情的纯粹——就越发显得熠熠生辉。---siry
